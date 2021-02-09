@@ -1,0 +1,43 @@
+body{
+	text-align: center;
+	 margin: 0;
+	  background-color:#e6e6e6;
+	   background-image: url(jut.jpg);
+	    background-size: cover; 
+}
+h1{
+	font-size: 3rem;
+	margin-top: 100px; 
+	color: #F2A154;
+}
+
+
+p{
+	color: #F2A154;
+	 font-family: cursive; 
+	font-size: 1.5rem;
+}
+
+button{
+	width: 200px; height: 50px; background-color: transparent; color: #EB530B;  border-color: white;border-radius: 25rem; font-size: 1.5rem; margin: 20px;
+}
+button:hover{
+	background-color: #F2A154;
+	color: white;
+}
+#top-div{
+	width: 100%;
+	 margin: auto;
+}
+#middle-div{
+	width: 100%;
+}
+
+#middle-containner{
+	width: 50%; 
+	margin: auto;
+}
+
+#button-div{
+	margin-top: 70px;
+}
